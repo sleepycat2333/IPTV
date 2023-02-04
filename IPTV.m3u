@@ -493,17 +493,17 @@ http://23.237.10.66:16410
 http://23.237.10.66:16106
 #EXTINF:-1 group-title="港澳台",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8?zgangd&&&$1920x1080
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻台
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视无线台
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视无线台
 http://23.237.10.66:16334
-#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png",台视新闻
+#EXTINF:-1 group-title="港澳台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png",台视新闻
 http://2023.stream-link.org/playlist/ttv_news
-#EXTINF:-1 group-title="臺灣 🇹🇼️",原住民
+#EXTINF:-1 group-title="港澳台",原住民
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",TVBS新闻
+#EXTINF:-1 group-title="港澳台",TVBS新闻
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="臺灣 🇹🇼️",TVBS亚洲
+#EXTINF:-1 group-title="港澳台",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
