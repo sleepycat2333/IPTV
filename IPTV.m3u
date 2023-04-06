@@ -379,14 +379,20 @@ http://113.207.84.197:8090/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="备用",CCTV16-4K
 http://113.207.84.197:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="" tvg-logo="http://live.cooltv.top/logo/fhzw.png" group-title="港澳台",凤凰中文
+rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
+#EXTINF:-1 tvg-id="142" tvg-name="" tvg-logo="http://live.cooltv.top/logo/fhzx.png" group-title="港澳台",凤凰资讯
+rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠华丽
 http://23.237.10.66:16410
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://23.237.10.66:16106
+#EXTINF:-1 tvg-id="7122" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
+http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="港澳台",RTHK31
+http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="港澳台",RTHK32
+http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 group-title="港澳台",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8?zgangd&&&$1920x1080
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻台
@@ -397,14 +403,10 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 http://23.237.10.66:16334
 #EXTINF:-1 group-title="港澳台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png",台视新闻
 http://2023.stream-link.org/playlist/ttv_news
-#EXTINF:-1 group-title="港澳台",原住民
-http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 group-title="港澳台",TVBS新闻
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="客户定制",广西卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226211/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangxi.png" group-title="客户定制",广西卫视
 https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="客户定制",南宁新闻综合
